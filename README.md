@@ -26,8 +26,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL Repositório: [https://github.com/neirander/secao-de-prova-social](https://github.com/neirander/secao-de-prova-social)
+- URL Projeto: [https://neirander.github.io/secao-de-prova-social/](https://neirander.github.io/secao-de-prova-social/)
 
 ## Meu processo
 
@@ -41,6 +41,6 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Website - [engnei](https://www.engnei.com.br)
+- Website - [engnei](https://dev.engnei.com.br)
 - Frontend Mentor - [@neirander](https://www.frontendmentor.io/profile/neirander)
 - Linkedin - [@engney](https://www.linkedin.com/in/engney/)
